@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/getacf4wk3og6y74/branch/main?svg=true)](https://ci.appveyor.com/project/AngryCFO/aqa-bdd/branch/main)
 
 # Домашнее задание к занятию «2.4. BDD»
 
